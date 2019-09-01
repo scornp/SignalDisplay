@@ -16,6 +16,9 @@ import java.awt.*;
 public class SignalDisplay {
     public static void main(String args[]) {
 
+        System.out.println("SignalDisplay hello");
+
+
   /*      JFrame xx = new JFrame();
 
 
@@ -67,4 +70,5 @@ public class SignalDisplay {
         w.pleaseStop();
         w.dispose();      */
     }
+
 }
